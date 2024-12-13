@@ -1,2 +1,2 @@
 # Weather-app
-Python project
+Hello this is my first semester python project
